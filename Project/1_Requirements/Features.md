@@ -1,6 +1,6 @@
---Abstract
+- Abstract
 
-This is a reliable system for safety and proper authentication before the use of Circuit Breakers.
+ -This is a reliable system for safety and proper authentication before the use of Circuit Breakers.
 As the world is becoming technosavy, heading towards invention of advance electronic devices so is the safety factor of technicians becoming an important matter of concern.
 The life of technicians is at risk as they work on these electrical appliances.They work by switching off the circuit breakers but sometimes someone can unknowingly on the circuit breaker while they are working and this could result in massive accidents sometimes it can even result in fatal accidents.
 To avoid such accidents there must be system for ensuring security of technicians.
@@ -10,8 +10,8 @@ The system is built using Arduino UNO, 4x4 Matrix Keypad, Relay, LCD Display, Ba
 The whole system can be enclosed in an integrated system.
 
 
-Identifying Features
-* Ensures Safety
-* Authentication is done easily
-* No communication barriers will be there between the Techicians and Engineers
-* Smooth Working 
+- Identifying Features
+ - Ensures Safety
+ - Authentication is done easily
+ - No communication barriers will be there between the Techicians and Engineers
+ - Smooth Working 
