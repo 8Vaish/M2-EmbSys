@@ -11,7 +11,7 @@ The whole system can be enclosed in an integrated system.
 
 
 - Identifying Features
- - Ensures Safety
- - Authentication is done easily
- - No communication barriers will be there between the Techicians and Engineers
- - Smooth Working 
+   - Ensures Safety
+    - Authentication is done easily
+    - No communication barriers will be there between the Techicians and Engineers
+     - Smooth Working 
