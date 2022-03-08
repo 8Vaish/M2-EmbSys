@@ -27,6 +27,9 @@ The whole system can be enclosed in an integrated system.
 - Where
    - industries will be the main focus of use.
 
+Here's the SWOT Analysis.
+![SWOT](https://user-images.githubusercontent.com/98880241/155774439-d46c6164-edde-4908-be17-0f143f346b00.jpg)
+
 |ID  | High Level Requirement|
 |----|-----------------------|
 |HLR1|There shall be a 4-4 Keypad matrix| 
