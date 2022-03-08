@@ -1,4 +1,4 @@
-- Abstract
+- # **Abstract**
 
  -This is a reliable system for safety and proper authentication before the use of Circuit Breakers.
 As the world is becoming technosavy, heading towards invention of advance electronic devices so is the safety factor of technicians becoming an important matter of concern.
@@ -10,7 +10,7 @@ The system is built using Arduino UNO, 4x4 Matrix Keypad, Relay, LCD Display, Ba
 The whole system can be enclosed in an integrated system.
 
 
-- Identifying Features
+- # **Identifying Features**
    - Ensures Safety
     - Authentication is done easily
     - No communication barriers will be there between the Techicians and Engineers
